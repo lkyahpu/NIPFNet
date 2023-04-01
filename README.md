@@ -41,5 +41,5 @@ We will add information about the paper later.
 
 ## Contact
 
-[Kunyuan Li](mailto:lkyhfut@gmail.com)
+[Kunyuan Li](mailto:kunyuan@mail.hfut.edu.cn)
 
